@@ -1,0 +1,5596 @@
+{
+    "kanji": [
+        {
+            "N5": [
+                {
+                    "name": "一",
+                    "kunyomi": "ひと-",
+                    "onyomi": "イチ",
+                    "meaning": "one",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "二",
+                    "kunyomi": "ふた、ふた-つ",
+                    "onyomi": "ニ",
+                    "meaning": "two",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "三",
+                    "kunyomi": "み、み-つ",
+                    "onyomi": "サン",
+                    "meaning": "three",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "四",
+                    "kunyomi": "よ、よ-つ",
+                    "onyomi": "シ",
+                    "meaning": "four",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "五",
+                    "kunyomi": "いつ、いつ-つ",
+                    "onyomi": "ゴ",
+                    "meaning": "five",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "六",
+                    "kunyomi": "む、む-つ",
+                    "onyomi": "ロク",
+                    "meaning": "six",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "七",
+                    "kunyomi": "なな、なな-つ",
+                    "onyomi": "シチ",
+                    "meaning": "seven",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "八",
+                    "kunyomi": "や、や-つ",
+                    "onyomi": "ハチ",
+                    "meaning": "eight",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "九",
+                    "kunyomi": "ここの、ここの-つ",
+                    "onyomi": "キュウ、ク",
+                    "meaning": "nine",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "十",
+                    "kunyomi": "とお",
+                    "onyomi": "ジュウ、ジッ、ジュッ",
+                    "meaning": "ten",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "日",
+                    "kunyomi": "ひ、-び、-か",
+                    "onyomi": "ニチ、ジツ",
+                    "meaning": "day, sun, Japan",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "月",
+                    "kunyomi": "つき",
+                    "onyomi": "ゲツ、ガツ",
+                    "meaning": "month, moon",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "白",
+                    "kunyomi": "しろ、しら-",
+                    "onyomi": "ハク、ビャク",
+                    "meaning": "white",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "百",
+                    "kunyomi": "もも",
+                    "onyomi": "ヒャク、ビャク",
+                    "meaning": "hundred",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "中",
+                    "kunyomi": "なか、うち",
+                    "onyomi": "チュウ",
+                    "meaning": "in, inside, middle, mean, center",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "千",
+                    "kunyomi": "ち",
+                    "onyomi": "セン",
+                    "meaning": "thousand",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "上",
+                    "kunyomi": "うえ、-うえ、うわ-、かみ、あ-げる、あ-がる、のぼ-る、のぼ-せる、のぼ-す",
+                    "onyomi": "ジョウ、ショウ",
+                    "meaning": "above, up",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "下",
+                    "kunyomi": "した、しも、もと、さ-げる、さ-がる、くだ-る、くだ-す、くだ-さる、お-ろす、お-りる",
+                    "onyomi": "カ、ゲ",
+                    "meaning": "below, down, descend, give, low, inferior",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "見",
+                    "kunyomi": "み、み-る、み-える",
+                    "onyomi": "ケン",
+                    "meaning": "see, hopes, chances, idea, opinion, look at, visible",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "万",
+                    "kunyomi": "よろず",
+                    "onyomi": "マン、バン",
+                    "meaning": "ten thousand",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "左",
+                    "kunyomi": "ひだり",
+                    "onyomi": "サ、シャ",
+                    "meaning": "left",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "右",
+                    "kunyomi": "みぎ",
+                    "onyomi": "ウ、ユウ",
+                    "meaning": "right",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "子",
+                    "kunyomi": "こ、-こ、ね",
+                    "onyomi": "シ、ス",
+                    "meaning": "child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "女",
+                    "kunyomi": "おんな、め",
+                    "onyomi": "ジョ、ニョ、ニョウ",
+                    "meaning": "woman, female",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "母",
+                    "kunyomi": "はは",
+                    "onyomi": "ボ",
+                    "meaning": "mama, mother",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "小",
+                    "kunyomi": "ちい、こ、お、さ-",
+                    "onyomi": "ショウ",
+                    "meaning": "little, small",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "大",
+                    "kunyomi": "おお、おお-きい、-おお-",
+                    "onyomi": "ダイ、タイ",
+                    "meaning": "large, big",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "外",
+                    "kunyomi": "そと、ほか、はず-す、はず-れる、と-る、と-れる、そと-の、ほか-の、とわ",
+                    "onyomi": "ガイ、ゲ",
+                    "meaning": "outside",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "名",
+                    "kunyomi": "な、-な",
+                    "onyomi": "メイ、ミョウ",
+                    "meaning": "name, noted, distinguished, reputation",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "川",
+                    "kunyomi": "かわ",
+                    "onyomi": "セン",
+                    "meaning": "stream, river",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "水",
+                    "kunyomi": "みず、みず-",
+                    "onyomi": "スイ",
+                    "meaning": "water",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "土",
+                    "kunyomi": "つち",
+                    "onyomi": "ド、ト",
+                    "meaning": "soil, earth, ground, Turkey",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "時",
+                    "kunyomi": "とき",
+                    "onyomi": "ジ",
+                    "meaning": "time, hour",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "火",
+                    "kunyomi": "ひ、-び、ほ-",
+                    "onyomi": "カ",
+                    "meaning": "fire",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "木",
+                    "kunyomi": "き、こ-",
+                    "onyomi": "ボク、モク",
+                    "meaning": "tree, wood",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "本",
+                    "kunyomi": "もと",
+                    "onyomi": "ホン",
+                    "meaning": "book, present, main, true, real, counter for long cylindrical things",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "先",
+                    "kunyomi": "さき",
+                    "onyomi": "セン",
+                    "meaning": "before, ahead, previous, future, precedence",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "金",
+                    "kunyomi": "かね、かな-、-がね",
+                    "onyomi": "キン、コン、ゴン",
+                    "meaning": "gold",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "車",
+                    "kunyomi": "くるま",
+                    "onyomi": "シャ",
+                    "meaning": "car",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "前",
+                    "kunyomi": "まえ",
+                    "onyomi": "ゼン",
+                    "meaning": "in front, before",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "高",
+                    "kunyomi": "たか、たか-い、-だか、たか-まる",
+                    "onyomi": "コウ",
+                    "meaning": "tall, high, expensive",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "学",
+                    "kunyomi": "まな-ぶ",
+                    "onyomi": "ガク",
+                    "meaning": "study, learning, science",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "書",
+                    "kunyomi": "か-く、-が-き",
+                    "onyomi": "ショ",
+                    "meaning": "write",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "話",
+                    "kunyomi": "はな-す、はなし",
+                    "onyomi": "ワ、ワク",
+                    "meaning": "tale, talk",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "語",
+                    "kunyomi": "かた-る、かた-らう",
+                    "onyomi": "ゴ",
+                    "meaning": "word, speech, language",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "読",
+                    "kunyomi": "よ-む",
+                    "onyomi": "ドク、トク",
+                    "meaning": "read",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "雨",
+                    "kunyomi": "あめ、あま-",
+                    "onyomi": "ウ",
+                    "meaning": "rain",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "天",
+                    "kunyomi": "あまつ",
+                    "onyomi": "テン",
+                    "meaning": "sky, heavens, nature",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "北",
+                    "kunyomi": "きた",
+                    "onyomi": "ホク",
+                    "meaning": "north",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "毎",
+                    "kunyomi": "ごと",
+                    "onyomi": "マイ",
+                    "meaning": "every",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "東",
+                    "kunyomi": "ひがし",
+                    "onyomi": "トウ",
+                    "meaning": "east",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "電",
+                    "kunyomi": "-",
+                    "onyomi": "デン",
+                    "meaning": "electricity",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "午",
+                    "kunyomi": "うま",
+                    "onyomi": "ゴ",
+                    "meaning": "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "国",
+                    "kunyomi": "くに",
+                    "onyomi": "コク",
+                    "meaning": "country",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "友",
+                    "kunyomi": "とも",
+                    "onyomi": "ユウ",
+                    "meaning": "friend",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "出",
+                    "kunyomi": "で-る、だ-す",
+                    "onyomi": "シュツ、スイ",
+                    "meaning": "exit, leave",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "山",
+                    "kunyomi": "やま",
+                    "onyomi": "サン",
+                    "meaning": "mountain",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "入",
+                    "kunyomi": "はい-る、い-る、い-り、い-れる、はい-",
+                    "onyomi": "ニュウ、ジュ",
+                    "meaning": "enter, insert",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "分",
+                    "kunyomi": "わ-ける、わ-かれる、わ-かる、わ-かつ",
+                    "onyomi": "ブン、フン、ブ",
+                    "meaning": "part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "男",
+                    "kunyomi": "おとこ",
+                    "onyomi": "ダン、ナン",
+                    "meaning": "male",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "行",
+                    "kunyomi": "い-く、ゆ-く、おこな-う",
+                    "onyomi": "コウ、ギョウ、アン",
+                    "meaning": "going, journey",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "人",
+                    "kunyomi": "ひと",
+                    "onyomi": "ジン、ニン",
+                    "meaning": "person",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "休",
+                    "kunyomi": "やす-む、やす-まる",
+                    "onyomi": "キュウ",
+                    "meaning": "rest, day off, retire, sleep",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "何",
+                    "kunyomi": "なに、なん",
+                    "onyomi": "カ",
+                    "meaning": "what",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "年",
+                    "kunyomi": "とし",
+                    "onyomi": "ネン",
+                    "meaning": "year",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "半",
+                    "kunyomi": "なか-ば",
+                    "onyomi": "ハン",
+                    "meaning": "half, middle, odd number, semi-, part-",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "父",
+                    "kunyomi": "ちち",
+                    "onyomi": "フ",
+                    "meaning": "papa, father",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "校",
+                    "kunyomi": "-",
+                    "onyomi": "コウ",
+                    "meaning": "exam, school, printing, proof, correction",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "後",
+                    "kunyomi": "のち、うし-ろ、うしろ、あと、おく-れる",
+                    "onyomi": "ゴ、コウ",
+                    "meaning": "behind, back, later",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "食",
+                    "kunyomi": "く-う、く-らう、た-べる",
+                    "onyomi": "ショク、ジキ",
+                    "meaning": "eat, food",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "生",
+                    "kunyomi": "い-きる、い-かす、い-ける、う-まれる、う-む、お-う、は-える、は-やす、き、なま",
+                    "onyomi": "セイ、ショウ",
+                    "meaning": "life, genuine, birth",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "今",
+                    "kunyomi": "いま",
+                    "onyomi": "コン、キン",
+                    "meaning": "now",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "西",
+                    "kunyomi": "にし",
+                    "onyomi": "セイ、サイ、ス",
+                    "meaning": "west, Spain",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "南",
+                    "kunyomi": "みなみ",
+                    "onyomi": "ナン、ナ",
+                    "meaning": "south",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "間",
+                    "kunyomi": "あいだ、ま",
+                    "onyomi": "カン、ケン",
+                    "meaning": "interval, space",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "聞",
+                    "kunyomi": "き-く、き-こえる",
+                    "onyomi": "ブン、モン",
+                    "meaning": "hear, ask, listen",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "円",
+                    "kunyomi": "まる-い、まる、まど、まど-か",
+                    "onyomi": "エン",
+                    "meaning": "circle, yen, round",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "来",
+                    "kunyomi": "く-る",
+                    "onyomi": "ライ、タイ",
+                    "meaning": "come, due, next, cause, become",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "気",
+                    "kunyomi": "いき",
+                    "onyomi": "キ、ケ",
+                    "meaning": "spirit, mind, air, atmosphere, mood",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "長",
+                    "kunyomi": "なが-い",
+                    "onyomi": "チョウ",
+                    "meaning": "long, leader",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                }
+            ]
+        },
+        {
+            "N4": [
+                {
+                    "name": "口",
+                    "kunyomi": "くち",
+                    "onyomi": "コウ、ク",
+                    "meaning": "mouth",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "田",
+                    "kunyomi": "た",
+                    "onyomi": "デン",
+                    "meaning": "rice field",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "目",
+                    "kunyomi": "め、-め、ま-",
+                    "onyomi": "モク、ボク",
+                    "meaning": "eye, class, look, insight, experience, care, favor",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "古",
+                    "kunyomi": "ふる、ふる-い、-ふる",
+                    "onyomi": "コ",
+                    "meaning": "old",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "明",
+                    "kunyomi": "あ-かり、あか-るい、あか-るむ、あか-らむ、あき-らか、あ-ける、あ-く、あ-くる、あ-かす",
+                    "onyomi": "メイ、ミョウ、ミン",
+                    "meaning": "bright, light",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "品",
+                    "kunyomi": "しな",
+                    "onyomi": "ヒン",
+                    "meaning": "goods, refinement, dignity, article, counter for meal",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "早",
+                    "kunyomi": "はや、はや-い、はや-まる、はや-める",
+                    "onyomi": "ソウ",
+                    "meaning": "early, fast",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "世",
+                    "kunyomi": "よ",
+                    "onyomi": "セ、セイ、ソウ",
+                    "meaning": "generation, world, society, public",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "自",
+                    "kunyomi": "みずか-ら、おの-ずから、おの-ずと",
+                    "onyomi": "ジ、シ",
+                    "meaning": "oneself",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "朝",
+                    "kunyomi": "あさ",
+                    "onyomi": "チョウ",
+                    "meaning": "morning",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "員",
+                    "kunyomi": "-",
+                    "onyomi": "イン",
+                    "meaning": "employee, member, number, the one in charge",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "元",
+                    "kunyomi": "もと",
+                    "onyomi": "ゲン、ガン",
+                    "meaning": "beginning, former time, origin",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "的",
+                    "kunyomi": "まと",
+                    "onyomi": "テキ",
+                    "meaning": "bull's eye, mark, target, object, adjective ending",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "真",
+                    "kunyomi": "ま、ま-こ、まこと",
+                    "onyomi": "シン",
+                    "meaning": "true, reality, Buddhist sect",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "工",
+                    "kunyomi": "-",
+                    "onyomi": "コウ、ク",
+                    "meaning": "craft, construction, katakana e radical (no. 48)",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "有",
+                    "kunyomi": "あ-る",
+                    "onyomi": "ユウ、ウ",
+                    "meaning": "possess, have, exist, happen, occur, approx",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "切",
+                    "kunyomi": "き-る、き-れる",
+                    "onyomi": "セツ、サイ",
+                    "meaning": "cut, cutoff, be sharp",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "別",
+                    "kunyomi": "わか-れる",
+                    "onyomi": "ベツ",
+                    "meaning": "separate, branch off, diverge, fork, another, extra, specially",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "町",
+                    "kunyomi": "まち",
+                    "onyomi": "チョウ",
+                    "meaning": "town, village, block, street",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "兄",
+                    "kunyomi": "あに",
+                    "onyomi": "ケイ、キョウ",
+                    "meaning": "elder brother, big brother",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "少",
+                    "kunyomi": "すく-ない、すこ-し",
+                    "onyomi": "ショウ",
+                    "meaning": "few, little",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "多",
+                    "kunyomi": "おお-い",
+                    "onyomi": "タ",
+                    "meaning": "many, frequent, much",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "夕",
+                    "kunyomi": "ゆう",
+                    "onyomi": "セキ",
+                    "meaning": "evening",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "魚",
+                    "kunyomi": "うお、さかな",
+                    "onyomi": "ギョ",
+                    "meaning": "fish",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "黒",
+                    "kunyomi": "くろ、くろ-い",
+                    "onyomi": "コク",
+                    "meaning": "black",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "同",
+                    "kunyomi": "おな-じ",
+                    "onyomi": "ドウ",
+                    "meaning": "same, agree, equal",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "字",
+                    "kunyomi": "あざ",
+                    "onyomi": "ジ",
+                    "meaning": "character, letter, word, section of village",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "安",
+                    "kunyomi": "やす、やす-い",
+                    "onyomi": "アン",
+                    "meaning": "relax, cheap, low, quiet, rested, contented, peaceful",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "味",
+                    "kunyomi": "あじ、あじ-わう",
+                    "onyomi": "ミ",
+                    "meaning": "flavor, taste",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "妹",
+                    "kunyomi": "いもうと",
+                    "onyomi": "マイ",
+                    "meaning": "younger sister",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "犬",
+                    "kunyomi": "いぬ",
+                    "onyomi": "ケン",
+                    "meaning": "dog",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "牛",
+                    "kunyomi": "うし",
+                    "onyomi": "ギュウ",
+                    "meaning": "cow",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "特",
+                    "kunyomi": "-",
+                    "onyomi": "トク",
+                    "meaning": "special",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "界",
+                    "kunyomi": "-",
+                    "onyomi": "カイ",
+                    "meaning": "world",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "茶",
+                    "kunyomi": "-",
+                    "onyomi": "チャ",
+                    "meaning": "tea",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "理",
+                    "kunyomi": "ことわり",
+                    "onyomi": "リ",
+                    "meaning": "logic, arrangement, reason, justice, truth",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "主",
+                    "kunyomi": "ぬし、おも",
+                    "onyomi": "シュ、ス",
+                    "meaning": "lord, chief, master, main thing, principal",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "注",
+                    "kunyomi": "そそ-ぐ",
+                    "onyomi": "チュウ",
+                    "meaning": "pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "道",
+                    "kunyomi": "みち",
+                    "onyomi": "ドウ、トウ",
+                    "meaning": "road-way, street, district, journey, course, moral, teachings",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "夏",
+                    "kunyomi": "なつ",
+                    "onyomi": "カ、ガ",
+                    "meaning": "summer",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "運",
+                    "kunyomi": "はこ-ぶ",
+                    "onyomi": "ウン",
+                    "meaning": "carry, luck, destiny, fate, lot, transport, progress, advance",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "京",
+                    "kunyomi": "みやこ",
+                    "onyomi": "キョウ、ケイ",
+                    "meaning": "capital, 10**16",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "週",
+                    "kunyomi": "-",
+                    "onyomi": "シュウ",
+                    "meaning": "week",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "売",
+                    "kunyomi": "う-る、う-れる",
+                    "onyomi": "バイ",
+                    "meaning": "sell",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "言",
+                    "kunyomi": "い-う、こと",
+                    "onyomi": "ゲン、ゴン",
+                    "meaning": "say",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "計",
+                    "kunyomi": "はか-る",
+                    "onyomi": "ケイ",
+                    "meaning": "plot, plan, scheme, measure",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "試",
+                    "kunyomi": "こころ-みる、ため-す",
+                    "onyomi": "シ",
+                    "meaning": "test, try, attempt, experiment, ordeal",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "止",
+                    "kunyomi": "と-まる、と-める",
+                    "onyomi": "シ",
+                    "meaning": "stop, halt",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "歩",
+                    "kunyomi": "ある-く、あゆ-む",
+                    "onyomi": "ホ、ブ、フ",
+                    "meaning": "walk, counter for steps",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "正",
+                    "kunyomi": "ただ-しい、ただ-す、まさ",
+                    "onyomi": "セイ、ショウ",
+                    "meaning": "correct, justice, righteous, 10**40",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "走",
+                    "kunyomi": "はし-る",
+                    "onyomi": "ソウ",
+                    "meaning": "run",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "題",
+                    "kunyomi": "-",
+                    "onyomi": "ダイ",
+                    "meaning": "topic, subject",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "建",
+                    "kunyomi": "た-てる、た-て、-だ-て",
+                    "onyomi": "ケン、コン",
+                    "meaning": "build",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "姉",
+                    "kunyomi": "あね",
+                    "onyomi": "シ",
+                    "meaning": "elder sister",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "転",
+                    "kunyomi": "ころ-がる、ころ-げる、ころ-がす、ころ-ぶ",
+                    "onyomi": "テン",
+                    "meaning": "revolve, turn around, change",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "冬",
+                    "kunyomi": "ふゆ",
+                    "onyomi": "トウ",
+                    "meaning": "winter",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "立",
+                    "kunyomi": "た-つ、た-てる",
+                    "onyomi": "リツ、リュウ",
+                    "meaning": "stand up",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "海",
+                    "kunyomi": "うみ",
+                    "onyomi": "カイ",
+                    "meaning": "sea, ocean",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "歌",
+                    "kunyomi": "うた、うた-う",
+                    "onyomi": "カ",
+                    "meaning": "song, sing",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "音",
+                    "kunyomi": "おと、ね",
+                    "onyomi": "オン、イン",
+                    "meaning": "sound, noise",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "方",
+                    "kunyomi": "かた",
+                    "onyomi": "ホウ",
+                    "meaning": "direction, person, alternative",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "地",
+                    "kunyomi": "-",
+                    "onyomi": "チ、ジ",
+                    "meaning": "ground, earth",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "風",
+                    "kunyomi": "かぜ、-かぜ、かざ-",
+                    "onyomi": "フウ",
+                    "meaning": "wind, air, style, manner",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "起",
+                    "kunyomi": "お-きる、お-こる、お-こす、おこ-す、た-つ",
+                    "onyomi": "キ",
+                    "meaning": "rise, wake up, get up",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "家",
+                    "kunyomi": "いえ、や",
+                    "onyomi": "カ、ケ",
+                    "meaning": "house, home",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "場",
+                    "kunyomi": "ば",
+                    "onyomi": "ジョウ",
+                    "meaning": "location, place",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "洋",
+                    "kunyomi": "-",
+                    "onyomi": "ヨウ",
+                    "meaning": "ocean, western style",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "着",
+                    "kunyomi": "き-る、き-せる、つ-く、つ-ける",
+                    "onyomi": "チャク、ジャク",
+                    "meaning": "don, arrive, wear, counter for suits of clothing",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "集",
+                    "kunyomi": "あつ-まる、あつ-める、つど-う",
+                    "onyomi": "シュウ",
+                    "meaning": "gather, meet, congregate, swarm, flock",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "習",
+                    "kunyomi": "なら-う、なら-い",
+                    "onyomi": "シュウ、ジュ",
+                    "meaning": "learn",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "曜",
+                    "kunyomi": "-",
+                    "onyomi": "ヨウ",
+                    "meaning": "weekday",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "店",
+                    "kunyomi": "みせ",
+                    "onyomi": "テン",
+                    "meaning": "store, shop",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "心",
+                    "kunyomi": "こころ、-ごころ",
+                    "onyomi": "シン",
+                    "meaning": "heart, mind, spirit",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "思",
+                    "kunyomi": "おも-う",
+                    "onyomi": "シ",
+                    "meaning": "think",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "意",
+                    "kunyomi": "-",
+                    "onyomi": "イ",
+                    "meaning": "idea, mind, heart, taste, thought, desire, care, liking",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "手",
+                    "kunyomi": "て、て-",
+                    "onyomi": "シュ",
+                    "meaning": "hand",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "持",
+                    "kunyomi": "も-つ",
+                    "onyomi": "ジ",
+                    "meaning": "hold",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "研",
+                    "kunyomi": "と-ぐ",
+                    "onyomi": "ケン",
+                    "meaning": "polish, study of, sharpen",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "広",
+                    "kunyomi": "ひろ-い、ひろ-まる、ひろ-める、ひろ-がる、ひろ-げる",
+                    "onyomi": "コウ",
+                    "meaning": "wide, broad, spacious",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "台",
+                    "kunyomi": "うてな、われ、つかさ",
+                    "onyomi": "ダイ、タイ",
+                    "meaning": "pedestal, a stand, counter for machines and vehicles",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "始",
+                    "kunyomi": "はじ-める、はじ-まる",
+                    "onyomi": "シ",
+                    "meaning": "commence, begin",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "去",
+                    "kunyomi": "さ-る",
+                    "onyomi": "キョ、コ",
+                    "meaning": "gone, past, quit, leave, elapse, eliminate, divorce",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "会",
+                    "kunyomi": "あ-う",
+                    "onyomi": "カイ、エ、オ",
+                    "meaning": "meeting, meet, party, association, interview, join",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "室",
+                    "kunyomi": "むろ",
+                    "onyomi": "シツ",
+                    "meaning": "room, apartment, chamber, greenhouse, cellar",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "公",
+                    "kunyomi": "おおやけ",
+                    "onyomi": "コウ、ク",
+                    "meaning": "public, prince, official, governmental",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "堂",
+                    "kunyomi": "-",
+                    "onyomi": "ドウ",
+                    "meaning": "public chamber, hall",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "死",
+                    "kunyomi": "し-ぬ",
+                    "onyomi": "シ",
+                    "meaning": "death, die",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "買",
+                    "kunyomi": "か-う",
+                    "onyomi": "バイ",
+                    "meaning": "buy",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "力",
+                    "kunyomi": "ちから",
+                    "onyomi": "リョク、リキ、リイ",
+                    "meaning": "power, strong, strain, bear up, exert",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "待",
+                    "kunyomi": "ま-つ",
+                    "onyomi": "タイ",
+                    "meaning": "wait, depend on",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "秋",
+                    "kunyomi": "あき",
+                    "onyomi": "シュウ",
+                    "meaning": "autumn",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "私",
+                    "kunyomi": "わたくし、わたし",
+                    "onyomi": "シ",
+                    "meaning": "private, I, me",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "答",
+                    "kunyomi": "こたえる",
+                    "onyomi": "トウ",
+                    "meaning": "solution, answer",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "住",
+                    "kunyomi": "す-む、す-まう",
+                    "onyomi": "ジュウ",
+                    "meaning": "dwell, reside, live, inhabit",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "体",
+                    "kunyomi": "からだ",
+                    "onyomi": "タイ、テイ",
+                    "meaning": "body, substance, object, reality, counter for images",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "仕",
+                    "kunyomi": "つか-える",
+                    "onyomi": "シ、ジ",
+                    "meaning": "attend, doing, official, serve",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "使",
+                    "kunyomi": "つか-う",
+                    "onyomi": "シ",
+                    "meaning": "use",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "代",
+                    "kunyomi": "か-わる、か-える、よ、しろ",
+                    "onyomi": "ダイ、タイ",
+                    "meaning": "substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "貸",
+                    "kunyomi": "か-す",
+                    "onyomi": "タイ",
+                    "meaning": "lend",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "花",
+                    "kunyomi": "はな",
+                    "onyomi": "カ",
+                    "meaning": "flower",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "肉",
+                    "kunyomi": "しし",
+                    "onyomi": "ニク",
+                    "meaning": "meat",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "以",
+                    "kunyomi": "もっ-て",
+                    "onyomi": "イ",
+                    "meaning": "by means of, because, in view of, compared with",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "夜",
+                    "kunyomi": "よ、よる",
+                    "onyomi": "ヤ",
+                    "meaning": "night, evening",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "旅",
+                    "kunyomi": "たび",
+                    "onyomi": "リョ",
+                    "meaning": "trip, travel",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "物",
+                    "kunyomi": "もの、もの-",
+                    "onyomi": "ブツ、モツ",
+                    "meaning": "thing, object, matter",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "屋",
+                    "kunyomi": "-や",
+                    "onyomi": "オク",
+                    "meaning": "roof, house, shop, dealer, seller",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "昼",
+                    "kunyomi": "ひる",
+                    "onyomi": "チュウ",
+                    "meaning": "daytime, noon",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "社",
+                    "kunyomi": "やしろ",
+                    "onyomi": "シャ",
+                    "meaning": "company, firm, office, association, shrine",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "近",
+                    "kunyomi": "ちか-い",
+                    "onyomi": "キン、コン",
+                    "meaning": "near, early, akin, tantamount",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "質",
+                    "kunyomi": "たち",
+                    "onyomi": "シツ、シチ、チ",
+                    "meaning": "substance, quality, matter, temperament",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "作",
+                    "kunyomi": "つく-る",
+                    "onyomi": "サク、サ",
+                    "meaning": "make, production, prepare, build",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "急",
+                    "kunyomi": "いそ-ぐ",
+                    "onyomi": "キュウ",
+                    "meaning": "hurry, emergency, sudden, steep",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "事",
+                    "kunyomi": "こと、つか-う、つか-える",
+                    "onyomi": "ジ、ズ",
+                    "meaning": "matter, thing, fact, business, reason, possibly",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "画",
+                    "kunyomi": "えが-く",
+                    "onyomi": "ガ、カク、エ",
+                    "meaning": "brush-stroke, picture",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "料",
+                    "kunyomi": "-",
+                    "onyomi": "リョウ",
+                    "meaning": "fee, materials",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "図",
+                    "kunyomi": "え、はか-る",
+                    "onyomi": "ズ、ト",
+                    "meaning": "map, drawing, plan, unexpected, accidentally",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "用",
+                    "kunyomi": "もち-いる",
+                    "onyomi": "ヨウ",
+                    "meaning": "utilize, business, service, use, employ",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "借",
+                    "kunyomi": "か-りる",
+                    "onyomi": "シャク",
+                    "meaning": "borrow, rent",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "度",
+                    "kunyomi": "たび",
+                    "onyomi": "ド、ト、タク",
+                    "meaning": "degrees, occurrence, time, counter for occurrences",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "不",
+                    "kunyomi": "-",
+                    "onyomi": "フ、ブ",
+                    "meaning": "negative, non-, bad, ugly, clumsy",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "族",
+                    "kunyomi": "-",
+                    "onyomi": "ゾク",
+                    "meaning": "tribe, family",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "知",
+                    "kunyomi": "し-る",
+                    "onyomi": "チ",
+                    "meaning": "know, wisdom",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "帰",
+                    "kunyomi": "かえ-る、かえ-す",
+                    "onyomi": "キ",
+                    "meaning": "homecoming, arrive at, lead to",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "強",
+                    "kunyomi": "つよ-い、つよ-まる、つよ-める、し-いる",
+                    "onyomi": "キョウ、ゴウ",
+                    "meaning": "strong",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "弟",
+                    "kunyomi": "おとうと",
+                    "onyomi": "テイ、ダイ、デ",
+                    "meaning": "younger brother",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "写",
+                    "kunyomi": "うつ-す、うつ-る",
+                    "onyomi": "シャ",
+                    "meaning": "copy, be photographed, describe",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "考",
+                    "kunyomi": "かんが-える",
+                    "onyomi": "コウ",
+                    "meaning": "consider, think over",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "教",
+                    "kunyomi": "おし-える、おそ-わる",
+                    "onyomi": "キョウ",
+                    "meaning": "teach, faith, doctrine",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "者",
+                    "kunyomi": "もの",
+                    "onyomi": "シャ",
+                    "meaning": "someone, person",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "足",
+                    "kunyomi": "あし、た-りる、た-る、た-す",
+                    "onyomi": "ソク",
+                    "meaning": "leg, foot, be sufficient, counter for pairs of footwear",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "院",
+                    "kunyomi": "-",
+                    "onyomi": "イン",
+                    "meaning": "Inst., institution, temple, mansion, school",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "空",
+                    "kunyomi": "そら、あ-く、あ-ける、から",
+                    "onyomi": "クウ",
+                    "meaning": "empty, sky, void, vacant, vacuum",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "究",
+                    "kunyomi": "きわ-める",
+                    "onyomi": "キュウ",
+                    "meaning": "research, study",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "終",
+                    "kunyomi": "お-わる、お-える",
+                    "onyomi": "シュウ",
+                    "meaning": "end, finish",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "服",
+                    "kunyomi": "ふく",
+                    "onyomi": "フク",
+                    "meaning": "clothing, admit, obey, discharge",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "通",
+                    "kunyomi": "とお-る、とお-り、-とお-り",
+                    "onyomi": "ツウ、ツ",
+                    "meaning": "traffic, pass through, avenue, commute, counter for letters, notes, documents",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "銀",
+                    "kunyomi": "しろがね",
+                    "onyomi": "ギン",
+                    "meaning": "silver",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "飯",
+                    "kunyomi": "めし",
+                    "onyomi": "ハン",
+                    "meaning": "meal, boiled rice",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "飲",
+                    "kunyomi": "の-む",
+                    "onyomi": "イン",
+                    "meaning": "drink, smoke",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "館",
+                    "kunyomi": "やかた",
+                    "onyomi": "カン",
+                    "meaning": "building, mansion, large building, palace",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "新",
+                    "kunyomi": "あたら-しい、あら-た、にい",
+                    "onyomi": "シン",
+                    "meaning": "new",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "親",
+                    "kunyomi": "おや、した-しい、した-しむ",
+                    "onyomi": "シン",
+                    "meaning": "parent, intimacy, relative, familiarity, dealer (cards)",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "青",
+                    "kunyomi": "あお、あお-い",
+                    "onyomi": "セイ、ショウ",
+                    "meaning": "blue, green",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "春",
+                    "kunyomi": "はる",
+                    "onyomi": "シュン",
+                    "meaning": "spring",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "漢",
+                    "kunyomi": "-",
+                    "onyomi": "カン",
+                    "meaning": "Sino-, China",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "野",
+                    "kunyomi": "の",
+                    "onyomi": "ヤ、ショ",
+                    "meaning": "plains, field, rustic, civilian life",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "問",
+                    "kunyomi": "と-う、と-い、とん",
+                    "onyomi": "モン",
+                    "meaning": "question, ask, problem",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "開",
+                    "kunyomi": "ひら-く、ひら-ける、あ-く、あ-ける",
+                    "onyomi": "カイ",
+                    "meaning": "open, unfold, unseal",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "重",
+                    "kunyomi": "え、おも-い、かさ-ねる、かさ-なる",
+                    "onyomi": "ジュウ、チョウ",
+                    "meaning": "heavy, heap up, pile up, nest of boxes, -fold",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "動",
+                    "kunyomi": "うご-く、うご-かす",
+                    "onyomi": "ドウ",
+                    "meaning": "move, motion, change, confusion, shift, shake",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "病",
+                    "kunyomi": "や-む、やまい",
+                    "onyomi": "ビョウ",
+                    "meaning": "ill, sick",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "医",
+                    "kunyomi": "-",
+                    "onyomi": "イ",
+                    "meaning": "medicine, healing, cure",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "発",
+                    "kunyomi": "た-つ、あば-く、おこ-る、つか-わす",
+                    "onyomi": "ハツ、ホツ",
+                    "meaning": "departure, discharge, publish, emit, start from, disclose, counter for gunshots",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "文",
+                    "kunyomi": "ふみ",
+                    "onyomi": "ブン、モン",
+                    "meaning": "sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "楽",
+                    "kunyomi": "たの-しい、たの-しむ",
+                    "onyomi": "ガク、ラク",
+                    "meaning": "music, comfort, ease",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "英",
+                    "kunyomi": "-",
+                    "onyomi": "エイ",
+                    "meaning": "England, English",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "映",
+                    "kunyomi": "うつ-る、うつ-す、は-える",
+                    "onyomi": "エイ",
+                    "meaning": "reflect, reflection, projection",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "赤",
+                    "kunyomi": "あか、あか-い、あか-らむ、あか-らめる",
+                    "onyomi": "セキ、シャク",
+                    "meaning": "red",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "色",
+                    "kunyomi": "いろ",
+                    "onyomi": "ショク、シキ",
+                    "meaning": "color",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "業",
+                    "kunyomi": "わざ",
+                    "onyomi": "ギョウ、ゴウ",
+                    "meaning": "business, vocation, arts, performance",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "悪",
+                    "kunyomi": "わる-い、わる-く、わる-さ",
+                    "onyomi": "アク、オ",
+                    "meaning": "bad, vice, rascal, false, evil, wrong",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "紙",
+                    "kunyomi": "かみ",
+                    "onyomi": "シ",
+                    "meaning": "paper",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "鳥",
+                    "kunyomi": "とり",
+                    "onyomi": "チョウ",
+                    "meaning": "bird, chicken",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "勉",
+                    "kunyomi": "つと-める",
+                    "onyomi": "ベン",
+                    "meaning": "exertion",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "験",
+                    "kunyomi": "あかし、しるし、ため-す、ためし",
+                    "onyomi": "ケン",
+                    "meaning": "verification, effect, testing",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "駅",
+                    "kunyomi": "-",
+                    "onyomi": "エキ",
+                    "meaning": "station",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "送",
+                    "kunyomi": "おく-る",
+                    "onyomi": "ソウ",
+                    "meaning": "escort, send",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                }
+            ]
+        },
+        {
+            "N3": [
+                {
+                    "name": "負",
+                    "kunyomi": "ま-ける、ま-かす、お-う",
+                    "onyomi": "フ",
+                    "meaning": "lose, be defeated",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "首",
+                    "kunyomi": "くび",
+                    "onyomi": "シュ",
+                    "meaning": "neck",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "直",
+                    "kunyomi": "ただ-ちに、なお-す、なお-る",
+                    "onyomi": "チョク、ジキ、ジカ",
+                    "meaning": "straightaway, honesty, frankness, fix, repair",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "具",
+                    "kunyomi": "そね-エル",
+                    "onyomi": "グ",
+                    "meaning": "tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "可",
+                    "kunyomi": "べ-き",
+                    "onyomi": "カ",
+                    "meaning": "can, passable, mustn't, should not, do not",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "頂",
+                    "kunyomi": "いただ-く",
+                    "onyomi": "チョウ",
+                    "meaning": "place on the head, receive",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "好",
+                    "kunyomi": "この-む",
+                    "onyomi": "コウ",
+                    "meaning": "fond, pleasing, like something",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "石",
+                    "kunyomi": "いし",
+                    "onyomi": "セキ",
+                    "meaning": "stone",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "光",
+                    "kunyomi": "ひかり、ひか-る",
+                    "onyomi": "コウ",
+                    "meaning": "ray, light",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "太",
+                    "kunyomi": "ふと-い、ふと-る",
+                    "onyomi": "タイ、タ",
+                    "meaning": "plump, thick, big around",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "原",
+                    "kunyomi": "はら",
+                    "onyomi": "ゲン",
+                    "meaning": "meadow, original, primitive, field, plain, prairie, tundra, wilderness",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "願",
+                    "kunyomi": "ねが-う",
+                    "onyomi": "ガン",
+                    "meaning": "petition, request, vow, wish, hope",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "泳",
+                    "kunyomi": "およ-ぐ",
+                    "onyomi": "エイ",
+                    "meaning": "swim",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "活",
+                    "kunyomi": "い-きる",
+                    "onyomi": "カツ",
+                    "meaning": "lively, resuscitation, being helped, living",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "消",
+                    "kunyomi": "き-える、け-す",
+                    "onyomi": "ショウ",
+                    "meaning": "extinguish, blow out, turn off, neutralize, cancel",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "点",
+                    "kunyomi": "つ-ける、つ-く",
+                    "onyomi": "テン",
+                    "meaning": "spot, point, mark, speck, decimal point",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "向",
+                    "kunyomi": "む-く",
+                    "onyomi": "コウ",
+                    "meaning": "yonder, facing, beyond, confront, defy, tend toward, approach",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "守",
+                    "kunyomi": "まも-る、も-り",
+                    "onyomi": "シュ",
+                    "meaning": "guard, protect, defend, obey",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "完",
+                    "kunyomi": "-",
+                    "onyomi": "カン",
+                    "meaning": "perfect, completion",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "寄",
+                    "kunyomi": "よ-る",
+                    "onyomi": "キ",
+                    "meaning": "draw near, stop in, bring near, gather, collect, send, forward",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "富",
+                    "kunyomi": "と-む",
+                    "onyomi": "フ",
+                    "meaning": "wealth, enrich, abundant",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "相",
+                    "kunyomi": "あい",
+                    "onyomi": "ソウ",
+                    "meaning": "inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "未",
+                    "kunyomi": "いま-だ、ま-だ、ひつじ",
+                    "onyomi": "ミ、ビ",
+                    "meaning": "un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "末",
+                    "kunyomi": "すえ",
+                    "onyomi": "マツ、バツ",
+                    "meaning": "end, close, tip, powder, posterity",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "若",
+                    "kunyomi": "わか-い",
+                    "onyomi": "ジャク、ニャク、ヤク",
+                    "meaning": "young, if, perhaps, possibly, low number, immature",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "草",
+                    "kunyomi": "くさ",
+                    "onyomi": "ソウ",
+                    "meaning": "grass, weeds, herbs, pasture, write, draft",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "苦",
+                    "kunyomi": "くる-しい、くる-しむ、くる-しめる、にが-い、にが-る",
+                    "onyomi": "ク",
+                    "meaning": "suffer, trial, worry",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "葉",
+                    "kunyomi": "は",
+                    "onyomi": "ヨウ",
+                    "meaning": "leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "暮",
+                    "kunyomi": "く-れる、く-らす",
+                    "onyomi": "ボ",
+                    "meaning": "living, livelihood, make a living, spend time",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "状",
+                    "kunyomi": "-",
+                    "onyomi": "ジョウ",
+                    "meaning": "status quo, conditions, circumstances, form, appearance",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "然",
+                    "kunyomi": "しか",
+                    "onyomi": "ゼン、ネン",
+                    "meaning": "sort of thing, so, if so, in that case, well",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "猫",
+                    "kunyomi": "ねこ",
+                    "onyomi": "ビョウ",
+                    "meaning": "cat",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "告",
+                    "kunyomi": "つ-げる",
+                    "onyomi": "コク",
+                    "meaning": "revelation, tell, inform, announce",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "洗",
+                    "kunyomi": "あら-う",
+                    "onyomi": "セン",
+                    "meaning": "wash, inquire into, probe",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "合",
+                    "kunyomi": "あ-う、あ-わす、あ-わせる",
+                    "onyomi": "ゴウ、ガッ、カッ",
+                    "meaning": "fit, suit, join, 0.1",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "王",
+                    "kunyomi": "-",
+                    "onyomi": "オウ",
+                    "meaning": "king, rule, magnate",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                   "name": "現",
+                    "kunyomi": "あらわ-れる",
+                    "onyomi": "ゲン",
+                    "meaning": "Present, Existing, Actual",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "全",
+                    "kunyomi": "まった-く",
+                    "onyomi": "ゼン",
+                    "meaning": "Whole, Entire, All, Complete, Fulfill",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "逃",
+                    "kunyomi": "に-げる",
+                    "onyomi": "トウ",
+                    "meaning": "Escape, Flee, Shirk, Evade, Set Free",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "連",
+                    "kunyomi": "つら-なる",
+                    "onyomi": "レン",
+                    "meaning": "Take Along, Lead, Join, Connect, Party",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "格",
+                    "kunyomi": "-",
+                    "onyomi": "カク",
+                    "meaning": "Status, Ranks, Capacity, Character, Case (law, grammar)",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "客",
+                    "kunyomi": "-",
+                    "onyomi": "キャク",
+                    "meaning": "Guest, Visitor, Customer, Client",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "処",
+                    "kunyomi": "ところ",
+                    "onyomi": "ショ",
+                    "meaning": "Dispose, Manage, Deal With, Sentence, Punish",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "落",
+                    "kunyomi": "お-ちる、お-とす",
+                    "onyomi": "ラク",
+                    "meaning": "Fall, Drop, Come Down",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "夢",
+                    "kunyomi": "ゆめ",
+                    "onyomi": "ム",
+                    "meaning": "Dream, Vision, Illusion",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "景",
+                    "kunyomi": "-",
+                    "onyomi": "ケイ",
+                    "meaning": "Scenery, View",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "覚",
+                    "kunyomi": "おぼ-える",
+                    "onyomi": "カク",
+                    "meaning": "Memorize, Learn, Remember, Acquire Knowledge",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "敗",
+                    "kunyomi": "やぶ-れる",
+                    "onyomi": "ハイ",
+                    "meaning": "Failure, Defeat, Reversal",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "警",
+                    "kunyomi": "いまし-める",
+                    "onyomi": "ケイ",
+                    "meaning": "Admonish, Fear, Frighten",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "調",
+                    "kunyomi": "しら-べる、ととの-う",
+                    "onyomi": "チョウ",
+                    "meaning": "Tune, Tone, Meter, Key (music), Writing Style, Prepare, Examine, Investigate",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "談",
+                    "kunyomi": "-",
+                    "onyomi": "ダン",
+                    "meaning": "Discuss, Talk",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "式",
+                    "kunyomi": "-",
+                    "onyomi": "シキ",
+                    "meaning": "Style, Ceremony, Rite, Function, Method, System, Form, Expression",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "成",
+                    "kunyomi": "な-る、な-す",
+                    "onyomi": "セイ、ジョウ",
+                    "meaning": "Turn Into, Become, Get, Grow, Elapse, Reach",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "政",
+                    "kunyomi": "まつりごと",
+                    "onyomi": "セイ、ショウ",
+                    "meaning": "Politics, Government",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "定",
+                    "kunyomi": "さだ-める",
+                    "onyomi": "テイ",
+                    "meaning": "Determine, Fix, Establish, Decide",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "越",
+                    "kunyomi": "こ-す",
+                    "onyomi": "エツ、エチ",
+                    "meaning": "Surpass, Cross Over, Move to, Exceed, Vietnam",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "遠",
+                    "kunyomi": "とお-い",
+                    "onyomi": "エン",
+                    "meaning": "Distant, Far",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "初",
+                    "kunyomi": "はじ-め、はじ-めて、はつ、うい、そ-める",
+                    "onyomi": "ショ",
+                    "meaning": "First Time, Beginning",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "市",
+                    "kunyomi": "いち",
+                    "onyomi": "シ",
+                    "meaning": "Market, City, Town",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "制",
+                    "kunyomi": "-",
+                    "onyomi": "セイ",
+                    "meaning": "System, Law, Rule",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "商",
+                    "kunyomi": "あきな-う",
+                    "onyomi": "ショウ",
+                    "meaning": "Make a Deal, Selling, Dealing in, Merchant",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "適",
+                    "kunyomi": "かな-う",
+                    "onyomi": "テキ",
+                    "meaning": "Suitable, Occasion, Opportunity, Appropriate",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "背",
+                    "kunyomi": "せ、せい、そむ-く、そむ-ける",
+                    "onyomi": "ハイ",
+                    "meaning": "Stature, Height, Back, Behind, Disobey, Defy, Go Back On, Rebel",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "皆",
+                    "kunyomi": "みな",
+                    "onyomi": "カイ",
+                    "meaning": "All, Everything",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "腹",
+                    "kunyomi": "はら",
+                    "onyomi": "フク",
+                    "meaning": "Abdomen, Belly, Stomach",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "欠",
+                    "kunyomi": "か-ける、か-く",
+                    "onyomi": "ケツ",
+                    "meaning": "Lack, Gap, Fail, Yawning Radical (no. 76)",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "吹",
+                    "kunyomi": "ふ-く",
+                    "onyomi": "スイ",
+                    "meaning": "Blow, Breathe, Puff, Emit, Smoke",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "次",
+                    "kunyomi": "つ-ぐ、つぎ",
+                    "onyomi": "ジ、シ",
+                    "meaning": "Next, Order, Sequence",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "資",
+                    "kunyomi": "-",
+                    "onyomi": "シ",
+                    "meaning": "Assets, Resources, Capital, Funds, Data, Be Informed",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "暗",
+                    "kunyomi": "くら-い",
+                    "onyomi": "アン",
+                    "meaning": "Darkness, Shade, Yin, Negative",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "識",
+                    "kunyomi": "し-る",
+                    "onyomi": "シキ",
+                    "meaning": "Discriminating, Know, Write",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "亡",
+                    "kunyomi": "な-い",
+                    "onyomi": "ボウ、モウ",
+                    "meaning": "Deceased, The Late, Dying, Perish",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "望",
+                    "kunyomi": "のぞ-む",
+                    "onyomi": "ボウ",
+                    "meaning": "Ambition, Full Moon, Hope, Desire, Aspire To, Expect",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "訪",
+                    "kunyomi": "おとず-れる、たず-ねる",
+                    "onyomi": "ホウ",
+                    "meaning": "Call On, Visit, Look Up, Offer For Sale, Buy",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "放",
+                    "kunyomi": "はな-す、はな-つ、はな-れる、ほう-る",
+                    "onyomi": "ホウ",
+                    "meaning": "Set Free, Release, Fire, Shoot, Emit, Banish, Liberate",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "説",
+                    "kunyomi": "と-く",
+                    "onyomi": "セツ、ゼイ",
+                    "meaning": "Rumor, Opinion, Theory",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "増",
+                    "kunyomi": "ま-す、ふ-える、ふ-やす",
+                    "onyomi": "ゾウ",
+                    "meaning": "Increase, Add, Augment, Gain, Promote",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "歳",
+                    "kunyomi": "とし",
+                    "onyomi": "サイ、セイ",
+                    "meaning": "Year-End, Age, Occasion, Opportunity",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "記",
+                    "kunyomi": "しる-す",
+                    "onyomi": "キ",
+                    "meaning": "Scribe, Account, Narrative",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "美",
+                    "kunyomi": "うつく-しい",
+                    "onyomi": "ビ、ミ",
+                    "meaning": "Beauty, Beautiful",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "達",
+                    "kunyomi": "-たち",
+                    "onyomi": "タツ",
+                    "meaning": "Accomplished, Reach, Arrive, Attain",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "差",
+                    "kunyomi": "さ-す",
+                    "onyomi": "サ",
+                    "meaning": "Distinction, Difference, Variation",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "進",
+                    "kunyomi": "すす-む、すす-める",
+                    "onyomi": "シン",
+                    "meaning": "Advance, Proceed, Progress, Promote",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "雜",
+                    "kunyomi": "まじ-える",
+                    "onyomi": "ザツ",
+                    "meaning": "Mixture, Miscellaneous",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "確",
+                    "kunyomi": "たし-か",
+                    "onyomi": "カク",
+                    "meaning": "Assurance, Firm, Tight, Hard, Solid, Confirm, Clear, Undertake",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "許",
+                    "kunyomi": "ゆる-す",
+                    "onyomi": "キョ",
+                    "meaning": "Permit, Approve",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "権",
+                    "kunyomi": "おもり",
+                    "onyomi": "ケン",
+                    "meaning": "Authority, Power, Rights",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "観",
+                    "kunyomi": "み-る",
+                    "onyomi": "カン",
+                    "meaning": "Outlook, Look, Appearance, Condition, View",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "困",
+                    "kunyomi": "こま-る",
+                    "onyomi": "コン",
+                    "meaning": "Quandary, Become Distressed, Shrewd, Struggle",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "因",
+                    "kunyomi": "よ-る",
+                    "onyomi": "イン",
+                    "meaning": "Cause, Factor, Be Associated With, Depend On, Owing To, Therefore",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "園",
+                    "kunyomi": "その",
+                    "onyomi": "エン",
+                    "meaning": "Park, Garden, Yard, Farm",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "回",
+                    "kunyomi": "まわ-る",
+                    "onyomi": "カイ、エ",
+                    "meaning": "Times, Round, Game, Revolve, Counter For Cycles",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "庭",
+                    "kunyomi": "にわ",
+                    "onyomi": "テイ",
+                    "meaning": "Courtyard, Garden, Yard",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "忘",
+                    "kunyomi": "わす-れる",
+                    "onyomi": "ボウ",
+                    "meaning": "Forget",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "認",
+                    "kunyomi": "みと-める",
+                    "onyomi": "ニン",
+                    "meaning": "Acknowledge, Witness, Discern, Recognize, Appreciate, Believe",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "想",
+                    "kunyomi": "おも-う",
+                    "onyomi": "ソウ",
+                    "meaning": "Concept, Think, Idea, Thought",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "息",
+                    "kunyomi": "いき",
+                    "onyomi": "ソク",
+                    "meaning": "Breath, Respiration, Son, Interest (on Money)",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "恐",
+                    "kunyomi": "おそ-れる、おそ-ろしい",
+                    "onyomi": "キョウ",
+                    "meaning": "Fear, Dread, Awe",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "感",
+                    "kunyomi": "-",
+                    "onyomi": "カン",
+                    "meaning": "Emotion, Feeling, Sensation",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "忙",
+                    "kunyomi": "いそが-しい",
+                    "onyomi": "ボウ",
+                    "meaning": "Busy, Happening, Next, In Sequence",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "怖",
+                    "kunyomi": "こわ-い",
+                    "onyomi": "フ",
+                    "meaning": "Dreadful, Frightening, Must Not, Fear, Revered",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "慣",
+                    "kunyomi": "な-れる、な-らす",
+                    "onyomi": "カン",
+                    "meaning": "Accustomed, Get Used To, Become Experienced",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "必",
+                    "kunyomi": "かなら-ず",
+                    "onyomi": "ヒツ",
+                    "meaning": "Inevitable, Certain, Necessary, All, More, Certainly, Without Fail",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "議",
+                    "kunyomi": "-",
+                    "onyomi": "ギ",
+                    "meaning": "Deliberation, Consultation, Debate, Consideration",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "抱",
+                    "kunyomi": "だ-く",
+                    "onyomi": "ホウ",
+                    "meaning": "Embrace, Hug, Hold In Arms",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "招",
+                    "kunyomi": "まね-く",
+                    "onyomi": "ショウ",
+                    "meaning": "Beckon, Invite, Summon, Engage",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "打",
+                    "kunyomi": "う-つ",
+                    "onyomi": "ダ",
+                    "meaning": "Strike, Hit, Knock, Pound, Dozen",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "指",
+                    "kunyomi": "ゆび、さ-す",
+                    "onyomi": "シ",
+                    "meaning": "Finger, Point To, Indicate, Put Into, Play (chess)",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "掛",
+                    "kunyomi": "か-ける",
+                    "onyomi": "カイ",
+                    "meaning": "Hang, Suspended",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "才",
+                    "kunyomi": "-",
+                    "onyomi": "サイ",
+                    "meaning": "Genius, Years Old, Clever, Great, Grow Up",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "財",
+                    "kunyomi": "たから",
+                    "onyomi": "ザイ",
+                    "meaning": "Wealth, Property, Money",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "存",
+                    "kunyomi": "-",
+                    "onyomi": "ソン",
+                    "meaning": "Suppose, Be Aware of, Believe, Feel",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "在",
+                    "kunyomi": "あ-る",
+                    "onyomi": "ザイ",
+                    "meaning": "Exist, Outskirts, Suburbs, Located In",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "吸",
+                    "kunyomi": "す-う",
+                    "onyomi": "キュウ",
+                    "meaning": "Suck, Imbibe, inhale, sip",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "更",
+                    "kunyomi": "さら",
+                    "onyomi": "コウ",
+                    "meaning": "grow late, night watch, sit up late, of course",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "怒",
+                    "kunyomi": "いか-る",
+                    "onyomi": "ド",
+                    "meaning": "angry, be offended",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "抜",
+                    "kunyomi": "ぬ-く、ぬ-ける、ぬ-かす、ぬ-かる",
+                    "onyomi": "バツ、ハツ",
+                    "meaning": "slip out, extract, pull out, pilfer, quote, remove, omit",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "投",
+                    "kunyomi": "な-げる",
+                    "onyomi": "トウ",
+                    "meaning": "throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "支",
+                    "kunyomi": "ささ-える",
+                    "onyomi": "シ",
+                    "meaning": "branch, support, sustain",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "反",
+                    "kunyomi": "そ-る、そ-らす",
+                    "onyomi": "ハン",
+                    "meaning": "anti-",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "返",
+                    "kunyomi": "かえ-す、かえ-る",
+                    "onyomi": "ヘン",
+                    "meaning": "return, answer, fade, repay",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "浮",
+                    "kunyomi": "う-く、う-かれる、う-かぶ、う-かべる",
+                    "onyomi": "フ",
+                    "meaning": "floating, float, rise to surface",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "受",
+                    "kunyomi": "う-ける、う-かる",
+                    "onyomi": "ジュ",
+                    "meaning": "accept, undergo, answer (phone), take, get, catch, receive",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "愛",
+                    "kunyomi": "いと-しい",
+                    "onyomi": "アイ",
+                    "meaning": "love, affection, favourite",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "払",
+                    "kunyomi": "はら-う",
+                    "onyomi": "フツ",
+                    "meaning": "pay, clear out, prune, banish, dispose of",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "治",
+                    "kunyomi": "おさ-める、おさ-まる、なお-る、なお-す",
+                    "onyomi": "ジ",
+                    "meaning": "reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "窓",
+                    "kunyomi": "まど",
+                    "onyomi": "ソウ",
+                    "meaning": "window, pane",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "法",
+                    "kunyomi": "のり",
+                    "onyomi": "ホウ",
+                    "meaning": "method, law, rule, principle, model, system",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "到",
+                    "kunyomi": "いた-る",
+                    "onyomi": "トウ",
+                    "meaning": "arrival, proceed, reach, attain, result in",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "互",
+                    "kunyomi": "たが-い",
+                    "onyomi": "ゴ",
+                    "meaning": "mutually, reciprocally, together",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "育",
+                    "kunyomi": "そだ-つ、そだ-てる、はぐく-む",
+                    "onyomi": "イク",
+                    "meaning": "bring up, grow up, raise, rear",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "流",
+                    "kunyomi": "なが-れる、なが-す、なが-れ、-なが-れ、なが-れる",
+                    "onyomi": "リュウ",
+                    "meaning": "current, a sink, flow, forfeit",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "込",
+                    "kunyomi": "こ-む、こ-める",
+                    "onyomi": "-",
+                    "meaning": "crowded, mixture, in bulk, included, (kokuji)",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "貧",
+                    "kunyomi": "まず-しい",
+                    "onyomi": "ヒン、ビン",
+                    "meaning": "poverty, poor",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "容",
+                    "kunyomi": "い-れる",
+                    "onyomi": "ヨウ",
+                    "meaning": "contain, form, looks",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "欲",
+                    "kunyomi": "ほっ-する、ほ-しい",
+                    "onyomi": "ヨク",
+                    "meaning": "longing, covetousness, greed, passion, desire, craving",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "常",
+                    "kunyomi": "つね、とこ",
+                    "onyomi": "ジョウ",
+                    "meaning": "usual, ordinary, normal, regular",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "破",
+                    "kunyomi": "やぶ-る、やぶ-れる",
+                    "onyomi": "ハ",
+                    "meaning": "rend, rip, tear, break, destroy, defeat, frustrate",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "残",
+                    "kunyomi": "のこ-る、のこ-す",
+                    "onyomi": "ザン",
+                    "meaning": "remainder, leftover, balance",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "列",
+                    "kunyomi": "-",
+                    "onyomi": "レツ",
+                    "meaning": "file, row, rank, tier, column",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "耳",
+                    "kunyomi": "みみ",
+                    "onyomi": "ジ",
+                    "meaning": "ear",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "取",
+                    "kunyomi": "と-る",
+                    "onyomi": "シュ",
+                    "meaning": "take, fetch, take up",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "最",
+                    "kunyomi": "もっと-も",
+                    "onyomi": "サイ",
+                    "meaning": "utmost, most, extreme",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "恥",
+                    "kunyomi": "は-じる、はじ、はじ-らう、は-ずかしい",
+                    "onyomi": "チ",
+                    "meaning": "shame, dishonor",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "職",
+                    "kunyomi": "-",
+                    "onyomi": "ショク",
+                    "meaning": "post, employment, work",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "置",
+                    "kunyomi": "お-く",
+                    "onyomi": "チ",
+                    "meaning": "placement, put, set, deposit, leave behind, keep, employ, pawn",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "夫",
+                    "kunyomi": "おっと",
+                    "onyomi": "フ、フウ",
+                    "meaning": "husband",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "規",
+                    "kunyomi": "-",
+                    "onyomi": "キ",
+                    "meaning": "standard, measure",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "賛",
+                    "kunyomi": "たす-ける、たた-える",
+                    "onyomi": "サン",
+                    "meaning": "approve, praise, title or inscription on picture, assist, agree with",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "失",
+                    "kunyomi": "うしな-う",
+                    "onyomi": "シツ",
+                    "meaning": "lose, error, fault, disadvantage, loss",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "労",
+                    "kunyomi": "ろう-する、いたわ-る",
+                    "onyomi": "ロウ",
+                    "meaning": "labor, thank for, reward for, toil, trouble",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "努",
+                    "kunyomi": "つと-める",
+                    "onyomi": "ド",
+                    "meaning": "toil, diligent, as much as possible",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "加",
+                    "kunyomi": "くわ-える、くわ-わる",
+                    "onyomi": "カ",
+                    "meaning": "add, addition, increase, join, include, Canada",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "得",
+                    "kunyomi": "え-る、う-る",
+                    "onyomi": "トク",
+                    "meaning": "Gain, Get, Find, Earn, Acquire, Can, May, Able to, Profit, Advantage",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "徒",
+                    "kunyomi": "いたずら",
+                    "onyomi": "ト",
+                    "meaning": "Junior, On Foot, Pupil, Apprentice, Potencial, Prodigal, Wastrel",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "彼",
+                    "kunyomi": "かれ、かの",
+                    "onyomi": "ヒ",
+                    "meaning": "He, That, The",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "役",
+                    "kunyomi": "-",
+                    "onyomi": "ヤク",
+                    "meaning": "Duty, War, Campaign, Drafted Labor, Office, Service, Role",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "程",
+                    "kunyomi": "ほど",
+                    "onyomi": "テイ",
+                    "meaning": "Extent, Degree, Law, Formula, Distance, Limits, Amount",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "和",
+                    "kunyomi": "やわ-らぐ、やわ-らげる、なご-む、なご-やか",
+                    "onyomi": "ワ、オ、カ",
+                    "meaning": "Harmony, Japanese Style, Peace, Soften, Japan",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "利",
+                    "kunyomi": "き-く",
+                    "onyomi": "リ",
+                    "meaning": "Profit, Advantage, Benefit",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "米",
+                    "kunyomi": "こめ、よね",
+                    "onyomi": "ベイ、マイ",
+                    "meaning": "Rice, USA, Metre",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "迷",
+                    "kunyomi": "まよ-う",
+                    "onyomi": "メイ",
+                    "meaning": "Astray, Be Puzzled, In Doubt, Lost, Err, Illusion",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "数",
+                    "kunyomi": "かず、かぞ-える",
+                    "onyomi": "スウ、ス",
+                    "meaning": "Number, Strength, Fate, Law, Figures",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "類",
+                    "kunyomi": "たぐ-い",
+                    "onyomi": "ルイ",
+                    "meaning": "Sort, Kind, Variety, Class, Genus",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "様",
+                    "kunyomi": "さま、さん",
+                    "onyomi": "ヨウ、ショウ",
+                    "meaning": "Esq., Way, Manner, Situation, Polite Suffix",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "求",
+                    "kunyomi": "もと-める",
+                    "onyomi": "キュウ、グ",
+                    "meaning": "Request, Want, Wish For, Require, Demand",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "球",
+                    "kunyomi": "たま",
+                    "onyomi": "キュウ",
+                    "meaning": "Ball, Sphere",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "笑",
+                    "kunyomi": "わら-う",
+                    "onyomi": "ショウ",
+                    "meaning": "Laugh",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "箱",
+                    "kunyomi": "はこ",
+                    "onyomi": "ソウ",
+                    "meaning": "Box, Chest, Case, Bin, Railway Car",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "等",
+                    "kunyomi": "ひと-しい、など、-ら",
+                    "onyomi": "トウ、ト",
+                    "meaning": "Class, Rank, Grade, Equal, Similar",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "位",
+                    "kunyomi": "くらい",
+                    "onyomi": "イ",
+                    "meaning": "Rank, Grade, Throne, Crown, About, Some",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "件",
+                    "kunyomi": "くだん",
+                    "onyomi": "ケン",
+                    "meaning": "Affair, Case, Matter, Item",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "他",
+                    "kunyomi": "ほか",
+                    "onyomi": "タ",
+                    "meaning": "Other, Another, The Others",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "伝",
+                    "kunyomi": "つた-わる、つた-える、つた-う",
+                    "onyomi": "デン、テン",
+                    "meaning": "Transmit, Go Along, Walk Along, Follow, Report, Communicate, Legend, Tradition",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "信",
+                    "kunyomi": "",
+                    "onyomi": "シン",
+                    "meaning": "Faith, Truth, Fidelity, Trust",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "例",
+                    "kunyomi": "たと-える",
+                    "onyomi": "レイ",
+                    "meaning": "Example, Custom, Usage, Precedent",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "側",
+                    "kunyomi": "かわ",
+                    "onyomi": "ソク",
+                    "meaning": "Side, Lean, Oppose, Regret",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "値",
+                    "kunyomi": "ね、あたい",
+                    "onyomi": "チ",
+                    "meaning": "Price, Value, Cost, Worth, Merit",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "倒",
+                    "kunyomi": "たお-れる、たお-す",
+                    "onyomi": "トウ",
+                    "meaning": "Overthrow, Fall, Collapse, Drop, Break Down",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "便",
+                    "kunyomi": "たよ-り",
+                    "onyomi": "ベン、ビン",
+                    "meaning": "Convenience",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "優",
+                    "kunyomi": "やさ-しい、すぐ-れる",
+                    "onyomi": "ユウ",
+                    "meaning": "Tenderness, Excel, Surpass, Actor, Superiority, Gentleness",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "宿",
+                    "kunyomi": "やど、やど-る、やど-す",
+                    "onyomi": "シュク",
+                    "meaning": "Inn, Lodging, Relay Station, Dwell, Lodge, Be Pregnant, Home, Dwelling",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "付",
+                    "kunyomi": "つ-ける、つ-く",
+                    "onyomi": "フ",
+                    "meaning": "Adhere, Attach, Refer to, Append",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "任",
+                    "kunyomi": "まか-せる",
+                    "onyomi": "ニン",
+                    "meaning": "Responsibility, Duty, Term, Entrust To, Appoint",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "化",
+                    "kunyomi": "ば-ける",
+                    "onyomi": "カ、ケ",
+                    "meaning": "Change, Take the Form of, Influence, Enchant, Delude, -ization",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "内",
+                    "kunyomi": "うち",
+                    "onyomi": "ナイ",
+                    "meaning": "Inside, Within, Between, Among, House, Home",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "座",
+                    "kunyomi": "すわ-る",
+                    "onyomi": "ザ",
+                    "meaning": "Squat, Seat, Cushion, Gathering, Sit",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "似",
+                    "kunyomi": "に-る",
+                    "onyomi": "ジ",
+                    "meaning": "Becoming, Resemble, Portrait",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "遊",
+                    "kunyomi": "あそ-ぶ",
+                    "onyomi": "ユウ",
+                    "meaning": "Play",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "易",
+                    "kunyomi": "やさ-しい",
+                    "onyomi": "エキ、イ",
+                    "meaning": "Easy, Ready to, Simple, Fortune-Telling, Divination",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "居",
+                    "kunyomi": "い-る",
+                    "onyomi": "キョ、コ",
+                    "meaning": "Reside, To Be, Exist, Live with",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "局",
+                    "kunyomi": "つぼね",
+                    "onyomi": "キョク",
+                    "meaning": "Bureau, Board, Office, Affair, Conclusion, Court Lady, Mistress",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "遅",
+                    "kunyomi": "おく-れる、おく-らす、おそ-い",
+                    "onyomi": "チ",
+                    "meaning": "Slow, Late, Back, Later",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "戻",
+                    "kunyomi": "もど-す、もど-る",
+                    "onyomi": "レイ",
+                    "meaning": "Re-, Return, Resume, Revert, Go Back",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "示",
+                    "kunyomi": "しめ-す",
+                    "onyomi": "ジ",
+                    "meaning": "Show, Indicate, Point Out, Express, Display",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "礼",
+                    "kunyomi": "-",
+                    "onyomi": "レイ",
+                    "meaning": "Thanks, Rite, Ceremony, Joy",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "福",
+                    "kunyomi": "-",
+                    "onyomi": "フク",
+                    "meaning": "Blessing, Fortune, Luck, Wealth",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "察",
+                    "kunyomi": "-",
+                    "onyomi": "サツ",
+                    "meaning": "Guess, Presume, Surmise, Judge, Understand",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "由",
+                    "kunyomi": "よし",
+                    "onyomi": "ユ、ユウ",
+                    "meaning": "Wherefore, A Reason",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "押",
+                    "kunyomi": "お-す、お-さえる",
+                    "onyomi": "オウ",
+                    "meaning": "Push, Stop, Check, Subdue, Attach, Seize, Thrust, Attack, Stave Off, Print",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "申",
+                    "kunyomi": "もう-す、もう-し",
+                    "onyomi": "シン",
+                    "meaning": "Have the　Honor to, Sign of the Monkey, 3-5PM, Ninth Sign of Chinese Zodiac",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "神",
+                    "kunyomi": "かみ、（かん）、（こう）",
+                    "onyomi": "シン、ジン",
+                    "meaning": "Gods, Mind, Soul",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "果",
+                    "kunyomi": "は-たす、は-てる、は-て",
+                    "onyomi": "カ",
+                    "meaning": "Fruit, Reward, Carry Out, Achieve, Complete, End, Finish, Succeed",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "所",
+                    "kunyomi": "ところ",
+                    "onyomi": "ショ",
+                    "meaning": "Place",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "折",
+                    "kunyomi": "お-る、おり、お-れる",
+                    "onyomi": "セツ",
+                    "meaning": "Fold, Break, Fracture, Bend, Yield, Submit",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "断",
+                    "kunyomi": "た-つ、ことわ-る",
+                    "onyomi": "ダン",
+                    "meaning": "Severance, Decline, Refuse, Apologize, Warn, Forbid",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "昨",
+                    "kunyomi": "-",
+                    "onyomi": "サク",
+                    "meaning": "Yesterday, Previous",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "雪",
+                    "kunyomi": "ゆき",
+                    "onyomi": "セツ",
+                    "meaning": "Snow",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "寝",
+                    "kunyomi": "ね-る、ね-かす",
+                    "onyomi": "シン",
+                    "meaning": "Lie Down, Sleep, Rest, Bed, Good, Excellent",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "婦",
+                    "kunyomi": "よめ",
+                    "onyomi": "フ",
+                    "meaning": "Lady, woman, wife, bride",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "当",
+                    "kunyomi": "あ-たる",
+                    "onyomi": "トウ",
+                    "meaning": "Hit, Right, Appropriate, Himself",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "争",
+                    "kunyomi": "あらそ-う",
+                    "onyomi": "ソウ",
+                    "meaning": "Contend, Dispute, Argue",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "君",
+                    "kunyomi": "きみ",
+                    "onyomi": "クン",
+                    "meaning": "Mister, You, Ruler, Male Name Suffix",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "両",
+                    "kunyomi": "てる",
+                    "onyomi": "リョウ",
+                    "meaning": "Both, Old Japanese Coin, Counter for Carriages",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "満",
+                    "kunyomi": "み-ちる、み-たす",
+                    "onyomi": "マン、バン",
+                    "meaning": "Full, Fullness, Enough, Satisfy",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "歯",
+                    "kunyomi": "よわい",
+                    "onyomi": "シ",
+                    "meaning": "Tooth, Cog",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "曲",
+                    "kunyomi": "ま-がる、ま-げる",
+                    "onyomi": "キョク",
+                    "meaning": "Bend, Music, Melody, Composition, Pleasure, Leisure, Bend, Twist, Turn",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "科",
+                    "kunyomi": "-",
+                    "onyomi": "カ",
+                    "meaning": "Department, Course, Section",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "備",
+                    "kunyomi": "そな-える、そな-わる",
+                    "onyomi": "ビ",
+                    "meaning": "Equip, Provision, Preparation",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "昔",
+                    "kunyomi": "むかし",
+                    "onyomi": "セキ",
+                    "meaning": "Once upon a time, Antiquity, Old Times",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "散",
+                    "kunyomi": "ち-る、ち-らす、-ち-、ち-える",
+                    "onyomi": "サン",
+                    "meaning": "Scatter, Fall, Disperse",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "席",
+                    "kunyomi": "むしろ",
+                    "onyomi": "セキ",
+                    "meaning": "Seat, Mat, Place",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "渡",
+                    "kunyomi": "わた-る、わた-す",
+                    "onyomi": "ト",
+                    "meaning": "Transit, Ford, Ferry, Cross, Import, Deliver, Diameter, Traverse",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "判",
+                    "kunyomi": "わか-る",
+                    "onyomi": "ハン",
+                    "meaning": "Judgement, Signature, Stamp, Seal",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "勝",
+                    "kunyomi": "か-つ、まさ-る",
+                    "onyomi": "ショウ",
+                    "meaning": "Victory, Win, Prevail, Excel",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "否",
+                    "kunyomi": "いな",
+                    "onyomi": "ヒ",
+                    "meaning": "Negate, No, Noes, Refuse, Decline, Deny",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "杯",
+                    "kunyomi": "さかずき",
+                    "onyomi": "ハイ",
+                    "meaning": "Counter for Cupfuls, Wine Glass, Glass, Toast",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "務",
+                    "kunyomi": "つと-める",
+                    "onyomi": "ム",
+                    "meaning": "Task, Duties",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "引",
+                    "kunyomi": "ひ-く、ひ-ける",
+                    "onyomi": "イン",
+                    "meaning": "Pull, Tug, Jerk, Admit, Install, Quotation",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "費",
+                    "kunyomi": "つい-やす、つい-える",
+                    "onyomi": "ヒ",
+                    "meaning": "Expense, Cost, Spend, Consume, Waste",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "号",
+                    "kunyomi": "さけぶ",
+                    "onyomi": "ゴウ",
+                    "meaning": "Nickname, Number, Item, Title, Pseudonym, Name, Call",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "与",
+                    "kunyomi": "あた-える",
+                    "onyomi": "ヨ",
+                    "meaning": "Bestow, Participate in, Give, Award, Impart, Provide, Cause, Gift, Godsend",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "身",
+                    "kunyomi": "み",
+                    "onyomi": "シン",
+                    "meaning": "Somebody, Person, One's Station in Life",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "老",
+                    "kunyomi": "お-いる、ふ-ける",
+                    "onyomi": "ロウ",
+                    "meaning": "Old Man, Old Age, Grow Old",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "追",
+                    "kunyomi": "お-う",
+                    "onyomi": "ツイ",
+                    "meaning": "Chase, Drive Away, Follow, Pursue, Tag, Run After",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "師",
+                    "kunyomi": "-",
+                    "onyomi": "シ",
+                    "meaning": "Expert, Teacher, Master, Model, Example",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "官",
+                    "kunyomi": "-",
+                    "onyomi": "カン",
+                    "meaning": "Bureaucrat, the Government",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "交",
+                    "kunyomi": "まじ-わる",
+                    "onyomi": "コウ",
+                    "meaning": "Mingle, Mixing, Association, Coming & Going",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "路",
+                    "kunyomi": "-じ",
+                    "onyomi": "ロ",
+                    "meaning": "Path, Route, Road, Distance",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "過",
+                    "kunyomi": "す-ぎる、す-ごす",
+                    "onyomi": "カ",
+                    "meaning": "Overdo, Exceed, Go Beyond, Error",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "阪",
+                    "kunyomi": "さか",
+                    "onyomi": "ハン",
+                    "meaning": "Height, Stature, Steps, Attitude",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "際",
+                    "kunyomi": "きわ",
+                    "onyomi": "サイ",
+                    "meaning": "Occasion, Side, Edge, Verge, Dangerous, Adventurous, Indecisive, Once, Previously",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "陽",
+                    "kunyomi": "ひ",
+                    "onyomi": "ヨウ",
+                    "meaning": "Sunshine, Yang Principle, Positive",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "降",
+                    "kunyomi": "お-りる、ふ-る",
+                    "onyomi": "コウ",
+                    "meaning": "Descend, Precipitate, Fall, Surrender",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "突",
+                    "kunyomi": "つ-く",
+                    "onyomi": "トツ",
+                    "meaning": "Stab, Protruding, Sharp, Pointed",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "探",
+                    "kunyomi": "さぐ-る",
+                    "onyomi": "タン",
+                    "meaning": "Grope, Search, Look for",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "深",
+                    "kunyomi": "ふか-い、ふか-まる、ふか-める",
+                    "onyomi": "シン",
+                    "meaning": "Deep, Heighten, Intensify, Strengthen",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "緒",
+                    "kunyomi": "お",
+                    "onyomi": "ショ",
+                    "meaning": "Thong, Beginning, Inception, End, Cord, Strap",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "続",
+                    "kunyomi": "つづ-く、つづ-ける",
+                    "onyomi": "ゾク",
+                    "meaning": "Continue, Series, Sequel",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "絵",
+                    "kunyomi": "え",
+                    "onyomi": "カイ",
+                    "meaning": "Picture, Drawing, Painting, Sketch",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "給",
+                    "kunyomi": "たま-う",
+                    "onyomi": "キュウ",
+                    "meaning": "Salary, Wage, Gift, Allow, Grant, Bestow on",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "経",
+                    "kunyomi": "へ-る、た-つ、たていと",
+                    "onyomi": "ケイ、キョウ",
+                    "meaning": "Sutra, Longitude, Pass thru, Manage, Direct, Administer",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "約",
+                    "kunyomi": "つづ-まる",
+                    "onyomi": "ヤク",
+                    "meaning": "Promise, Approximately, Shrink",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "幾",
+                    "kunyomi": "いく-",
+                    "onyomi": "キ",
+                    "meaning": "How Many, How Much, How Far, How Long",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "機",
+                    "kunyomi": "はた",
+                    "onyomi": "キ",
+                    "meaning": "Mechanism, Opportunity, Indications",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "係",
+                    "kunyomi": "かか-る",
+                    "onyomi": "ケイ",
+                    "meaning": "Person in Charge, Connection, Duty, Concern Oneself",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "御",
+                    "kunyomi": "おん",
+                    "onyomi": "ギョ、ゴ、おん",
+                    "meaning": "Honorable, Manipulate, Govern",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "命",
+                    "kunyomi": "いのち",
+                    "onyomi": "メイ、ミョウ",
+                    "meaning": "Fate, Command, Decree, Destiny, Life, Appoint",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "冷",
+                    "kunyomi": "つめ-たい、ひ-える、ひ-や、ひ-ややか",
+                    "onyomi": "レイ",
+                    "meaning": "Cool, Cold, Refreshing",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "疑",
+                    "kunyomi": "うたが-う",
+                    "onyomi": "ギ",
+                    "meaning": "Doubt, Distrust, Be Suspicious, Question",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "犯",
+                    "kunyomi": "おか-す",
+                    "onyomi": "ハン",
+                    "meaning": "Crime, Sin, Offense",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "危",
+                    "kunyomi": "あぶ-ない、あや-うい、あや-ぶむ",
+                    "onyomi": "キ",
+                    "meaning": "Dangerous, Fear, Uneasy",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "留",
+                    "kunyomi": "と-める、と-まる",
+                    "onyomi": "リュウ",
+                    "meaning": "Detain, Fasten, halt, Stop",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "酒",
+                    "kunyomi": "さけ、さか-",
+                    "onyomi": "シュ",
+                    "meaning": "Sake, Alcohol",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "配",
+                    "kunyomi": "くば-る",
+                    "onyomi": "ハイ",
+                    "meaning": "Distribute, spouse, exile, rationing",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "頭",
+                    "kunyomi": "あたま、かしら",
+                    "onyomi": "トウ、ズ",
+                    "meaning": "Head, counter for large animals",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "喜",
+                    "kunyomi": "よろこ-ぶ",
+                    "onyomi": "キ",
+                    "meaning": "Rejoice, take pleasure in",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "盗",
+                    "kunyomi": "ぬす-む",
+                    "onyomi": "トウ",
+                    "meaning": "Steal, rob, pilfer",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "退",
+                    "kunyomi": "しりぞ-く、しりぞ-ける",
+                    "onyomi": "タイ",
+                    "meaning": "Retreat, withdraw, retire, resign, repel, expel, reject",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "限",
+                    "kunyomi": "かぎ-る",
+                    "onyomi": "ゲン",
+                    "meaning": "Limit, restrict, to best of ability",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "良",
+                    "kunyomi": "よ-い",
+                    "onyomi": "リョウ",
+                    "meaning": "Good, pleasing, skilled",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "娘",
+                    "kunyomi": "むすめ",
+                    "onyomi": "ジョウ",
+                    "meaning": "Daughter, Girl",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "平",
+                    "kunyomi": "たい-ら、ひら",
+                    "onyomi": "ヘイ、ビョウ",
+                    "meaning": "Flat, even, peaceful",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "呼",
+                    "kunyomi": "よ-ぶ",
+                    "onyomi": "コ",
+                    "meaning": "Call, call out to, invite",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "殺",
+                    "kunyomi": "ころ-す",
+                    "onyomi": "サツ",
+                    "meaning": "Kill, Murder, Butcher, Slice Off, Split, Diminish, Reduce, Spoil",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "辞",
+                    "kunyomi": "やめ-る",
+                    "onyomi": "ジ",
+                    "meaning": "Resign, Word, Term, Expression",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "幸",
+                    "kunyomi": "さいわ-い",
+                    "onyomi": "コウ",
+                    "meaning": "Happiness, Blessing, Fortune",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "報",
+                    "kunyomi": "むく-いる",
+                    "onyomi": "ホウ",
+                    "meaning": "Report, News, Reward, Retribution",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "収",
+                    "kunyomi": "おさ-める",
+                    "onyomi": "シュウ",
+                    "meaning": "Income, Obtain, reap, pay, supply, store",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "熱",
+                    "kunyomi": "あつ-い",
+                    "onyomi": "ネツ",
+                    "meaning": "Heat, Temperature, Fever, Mania, Passion",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "刻",
+                    "kunyomi": "きざ-む、きざ-み",
+                    "onyomi": "コク",
+                    "meaning": "Carve, engrave, quarter, 15 minutes",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "術",
+                    "kunyomi": "すべ",
+                    "onyomi": "ジュツ",
+                    "meaning": "Art, technique, skill, means, trick, resources",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "寒",
+                    "kunyomi": "さむ-い",
+                    "onyomi": "カン",
+                    "meaning": "Cold",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "精",
+                    "kunyomi": "",
+                    "onyomi": "セイ、ショウ",
+                    "meaning": "Refined, ghost, fairy, energy, vitality, semen, excellence, purity, skill",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "情",
+                    "kunyomi": "なさ-け",
+                    "onyomi": "ジョウ、セイ",
+                    "meaning": "Feelings, emotion, passion, sympathy, circumstances, facts",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "晴",
+                    "kunyomi": "は-れる、は-らす",
+                    "onyomi": "セイ",
+                    "meaning": "Clear up",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "静",
+                    "kunyomi": "しず、しず-か、しず-まる、しず-める",
+                    "onyomi": "セイ、ジョウ",
+                    "meaning": "Quiet",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "責",
+                    "kunyomi": "せ-める",
+                    "onyomi": "セキ",
+                    "meaning": "Blame, condemn, censure",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "積",
+                    "kunyomi": "つ-む、つ-もる",
+                    "onyomi": "セキ",
+                    "meaning": "Volume, product (x*y), acreage, contents, pile up, stack, load, amass",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "表",
+                    "kunyomi": "おもて、あらわ-す、あらわ-れる",
+                    "onyomi": "ヒョウ",
+                    "meaning": "Surface, table, chart, diagram",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "害",
+                    "kunyomi": "-",
+                    "onyomi": "ガイ",
+                    "meaning": "Harm, injury",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "割",
+                    "kunyomi": "わ-る、わり、わ-れる、さ-く",
+                    "onyomi": "カツ",
+                    "meaning": "Proportion, comparatively, divide, cut, separate, split",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "性",
+                    "kunyomi": "さが",
+                    "onyomi": "セイ、ショウ",
+                    "meaning": "Sex, gender, nature",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "産",
+                    "kunyomi": "う-む、う-まれる、うぶ",
+                    "onyomi": "サン",
+                    "meaning": "Products, bear, give birth, yield, childbirth, native, property",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "実",
+                    "kunyomi": "み、みの-る、まこと、まことの-る",
+                    "onyomi": "ジツ、シツ",
+                    "meaning": "Reality, truth, substance, sincerity, honesty, fidelity, kindness, faith, fruit, seed, nut",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "勤",
+                    "kunyomi": "つと-める、つと-まる",
+                    "onyomi": "キン、ゴン",
+                    "meaning": "Diligence, become employed, serve",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "難",
+                    "kunyomi": "かた-い、むずか-しい",
+                    "onyomi": "ナン",
+                    "meaning": "Difficult, impossible, trouble, accident, defect",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "乗",
+                    "kunyomi": "の-る、の-せる",
+                    "onyomi": "ジョウ、ショウ",
+                    "meaning": "Ride, power, multiplication, record, counter for vehicles, board, mount, join",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "念",
+                    "kunyomi": "-",
+                    "onyomi": "ネン",
+                    "meaning": "Wish, sense, idea, thought, feeling, desire, attention",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "予",
+                    "kunyomi": "あらかじ-め",
+                    "onyomi": "ヨ",
+                    "meaning": "Beforehand, previous, myself, I",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "要",
+                    "kunyomi": "い-る",
+                    "onyomi": "ヨウ",
+                    "meaning": "Need, main point, essence, pivot, key to",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "煙",
+                    "kunyomi": "けむ-る",
+                    "onyomi": "エン",
+                    "meaning": "Smoke",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "閉",
+                    "kunyomi": "し-める、と-じる",
+                    "onyomi": "ヘイ",
+                    "meaning": "Closed, shut",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "非",
+                    "kunyomi": "あら-ず",
+                    "onyomi": "ヒ",
+                    "meaning": "Negative, non-, bad, ugly, clumsy",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "悲",
+                    "kunyomi": "かな-しい、かな-しむ",
+                    "onyomi": "ヒ",
+                    "meaning": "Sad, grieve, lament, regret, be sorry",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "罪",
+                    "kunyomi": "つみ",
+                    "onyomi": "ザイ",
+                    "meaning": "Guilt, sin, crime, fault, blame, offense",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "候",
+                    "kunyomi": "そうろう",
+                    "onyomi": "コウ",
+                    "meaning": "Climate, season, weather, wait for, expect",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "決",
+                    "kunyomi": "き-める",
+                    "onyomi": "ケツ",
+                    "meaning": "Decide, fix, agree upon, appoint",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "偉",
+                    "kunyomi": "えら-い",
+                    "onyomi": "イ",
+                    "meaning": "Admirable, greatness, remarkable, conceited, famous, excellent",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "違",
+                    "kunyomi": "ちが-う、ちが-える",
+                    "onyomi": "イ",
+                    "meaning": "Differ, disagree",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "余",
+                    "kunyomi": "あま-る、あま-す",
+                    "onyomi": "ヨ",
+                    "meaning": "Too much, myself, surplus, other, remainder",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "除",
+                    "kunyomi": "のぞ-く",
+                    "onyomi": "ジョ",
+                    "meaning": "Exclude, division (x/3), remove, abolish, cancel, except",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "途",
+                    "kunyomi": "みち",
+                    "onyomi": "ト",
+                    "meaning": "Route, way, road",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "束",
+                    "kunyomi": "たば",
+                    "onyomi": "ソク",
+                    "meaning": "Bundle, sheaf, ream, tie in bundles",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "頼",
+                    "kunyomi": "たの-む",
+                    "onyomi": "ライ",
+                    "meaning": "Trust, request",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "速",
+                    "kunyomi": "はや-い",
+                    "onyomi": "ソク",
+                    "meaning": "Quick, fast",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "険",
+                    "kunyomi": "けわ-しい",
+                    "onyomi": "ケン",
+                    "meaning": "Steep, preciptous, inaccessible place, impregnable position, sharp eyes",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "働",
+                    "kunyomi": "はたら-く",
+                    "onyomi": "ドウ",
+                    "meaning": "Work, to work",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "種",
+                    "kunyomi": "たね",
+                    "onyomi": "シュ",
+                    "meaning": "Species, kind, class, variety, seed",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "疲",
+                    "kunyomi": "つか-れる",
+                    "onyomi": "ヒ",
+                    "meaning": "Exhausted, tire, weary",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "痛",
+                    "kunyomi": "いた-い、いた-む、いた-める",
+                    "onyomi": "ツウ",
+                    "meaning": "Pain, hurt, damage, bruise",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "迎",
+                    "kunyomi": "むか-える",
+                    "onyomi": "ゲイ",
+                    "meaning": "Welcome, meet, greet",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "登",
+                    "kunyomi": "のぼ-る",
+                    "onyomi": "トウ",
+                    "meaning": "Ascend, climb up",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "形",
+                    "kunyomi": "かた、かたち、-がた、-がた-める",
+                    "onyomi": "ケイ、ギョウ",
+                    "meaning": "Shape, form, style",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "顔",
+                    "kunyomi": "かお",
+                    "onyomi": "ガン",
+                    "meaning": "Face, expression",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "参",
+                    "kunyomi": "まい-る",
+                    "onyomi": "サン、シン",
+                    "meaning": "Nonplussed, three, going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "対",
+                    "kunyomi": "あいて",
+                    "onyomi": "タイ、ツイ",
+                    "meaning": "Vis-a-vis, opposite, even, equal, versus, anti-, compare",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "済",
+                    "kunyomi": "す-む、す-ます",
+                    "onyomi": "サイ、セイ",
+                    "meaning": "Finish, come to an end, excusable, need not",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "薬",
+                    "kunyomi": "くすり",
+                    "onyomi": "ヤク",
+                    "meaning": "Medicine, chemical, enamel, gunpowder, benefit",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "変",
+                    "kunyomi": "か-わる、か-える",
+                    "onyomi": "ヘン",
+                    "meaning": "Unusual, change, strange",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "横",
+                    "kunyomi": "よこ",
+                    "onyomi": "オウ",
+                    "meaning": "Sideways, side, horizontal, width, woof",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "絶",
+                    "kunyomi": "た-える、た-やす、た-つ",
+                    "onyomi": "ゼツ",
+                    "meaning": "Discontinue, beyond, sever, cut off, abstain, interrupt, suppress",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "期",
+                    "kunyomi": "-",
+                    "onyomi": "キ、ゴ",
+                    "meaning": "Period, time, date, term",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "舞",
+                    "kunyomi": "ま-う、まい",
+                    "onyomi": "ブ",
+                    "meaning": "Dance, flit, circle, wheel",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "組",
+                    "kunyomi": "く-む、くみ",
+                    "onyomi": "ソ",
+                    "meaning": "Association, braid, plait, construct, assemble, unite, cooperate, grapple",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "祖",
+                    "kunyomi": "-",
+                    "onyomi": "ソ",
+                    "meaning": "Ancestor, pioneer, founder",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "助",
+                    "kunyomi": "たす-ける、たす-かる、すけ",
+                    "onyomi": "ジョ",
+                    "meaning": "Help, rescue, assist",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "共",
+                    "kunyomi": "とも",
+                    "onyomi": "キョウ",
+                    "meaning": "Together, both, neither, all, and, alike, with",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "供",
+                    "kunyomi": "そな-える、とも",
+                    "onyomi": "キョウ",
+                    "meaning": "Submit, offer, present, serve",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "港",
+                    "kunyomi": "みなと",
+                    "onyomi": "コウ",
+                    "meaning": "Harbor",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "選",
+                    "kunyomi": "えら-ぶ",
+                    "onyomi": "セン",
+                    "meaning": "Elect, select, choose, prefer",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "解",
+                    "kunyomi": "と-く、と-かす、と-ける",
+                    "onyomi": "カイ、ゲ",
+                    "meaning": "Unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "構",
+                    "kunyomi": "かま-える、かま-う",
+                    "onyomi": "コウ",
+                    "meaning": "Posture, build, pretend",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "論",
+                    "kunyomi": "-",
+                    "onyomi": "ロン",
+                    "meaning": "Argument, discourse",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "婚",
+                    "kunyomi": "-",
+                    "onyomi": "コン",
+                    "meaning": "Marriage",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "民",
+                    "kunyomi": "たみ",
+                    "onyomi": "ミン",
+                    "meaning": "People, nation, subjects",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "眠",
+                    "kunyomi": "ねむ-る、ねむ-い",
+                    "onyomi": "ミン",
+                    "meaning": "Sleep, die, sleepy",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "捕",
+                    "kunyomi": "と-らえる、と-らわれる、と-る、つか-まえる、つか-まる",
+                    "onyomi": "ホ",
+                    "meaning": "Catch, capture",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "部",
+                    "kunyomi": "-べ",
+                    "onyomi": "ブ",
+                    "meaning": "Section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "都",
+                    "kunyomi": "みやこ",
+                    "onyomi": "ト、ツ",
+                    "meaning": "Metropolis, capital",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "段",
+                    "kunyomi": "-",
+                    "onyomi": "ダン",
+                    "meaning": "Grade, steps, stairs",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "船",
+                    "kunyomi": "ふね、ふな",
+                    "onyomi": "セン",
+                    "meaning": "Ship, boat",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "飛",
+                    "kunyomi": "と-ぶ、と-ばす",
+                    "onyomi": "ヒ",
+                    "meaning": "Fly, skip (pages), scatter",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "妻",
+                    "kunyomi": "つま",
+                    "onyomi": "サイ",
+                    "meaning": "Wife, spouse",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "面",
+                    "kunyomi": "おも、おもて、つら",
+                    "onyomi": "メン",
+                    "meaning": "Mask, face, features, surface",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "靴",
+                    "kunyomi": "くつ",
+                    "onyomi": "カ",
+                    "meaning": "Shoes",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "声",
+                    "kunyomi": "こえ、こわ",
+                    "onyomi": "セイ、ショウ",
+                    "meaning": "Voice",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "誤",
+                    "kunyomi": "あやま-る",
+                    "onyomi": "ゴ",
+                    "meaning": "Mistake, err, do wrong, mislead",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "番",
+                    "kunyomi": "つがい",
+                    "onyomi": "バン",
+                    "meaning": "Turn, number in a series",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "宅",
+                    "kunyomi": "-",
+                    "onyomi": "タク",
+                    "meaning": "Home, house, residence, our house, my husband",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "髪",
+                    "kunyomi": "かみ",
+                    "onyomi": "ハツ",
+                    "meaning": "Hair of the head",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "単",
+                    "kunyomi": "ひとえ",
+                    "onyomi": "タン",
+                    "meaning": "Simple, one, single, merely",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "戦",
+                    "kunyomi": "いくさ、たたか-う",
+                    "onyomi": "セン",
+                    "meaning": "War, battle, match",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "鳴",
+                    "kunyomi": "な-く、な-る、な-らす",
+                    "onyomi": "メイ",
+                    "meaning": "Chirp, cry, bark, sound, ring, echo, honk",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "偶",
+                    "kunyomi": "たま",
+                    "onyomi": "グウ",
+                    "meaning": "Accidentally, even number, couple, man and wife, same kind",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "晩",
+                    "kunyomi": "-",
+                    "onyomi": "バン",
+                    "meaning": "Night, evening",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "馬",
+                    "kunyomi": "うま、うま-い",
+                    "onyomi": "バ",
+                    "meaning": "Horse",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "能",
+                    "kunyomi": "よく",
+                    "onyomi": "ノウ",
+                    "meaning": "Ability, talent, skill, capacity",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "演",
+                    "kunyomi": "-",
+                    "onyomi": "エン",
+                    "meaning": "Performance, act, play, render, stage",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                },
+                {
+                    "name": "関",
+                    "kunyomi": "せき、かか-わる",
+                    "onyomi": "カン",
+                    "meaning": "Connection, barrier, gateway, involve, concerning",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                }
+            ]
+        },
+        {
+            "N2": [
+                {
+                    "name": "胃",
+                    "kunyomi": "-",
+                    "onyomi": "イ",
+                    "meaning": "Stomach, Paunch, Crop, Craw",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                }
+            ]
+        },
+        {
+            "N1": [
+                {
+                    "name": "吾",
+                    "kunyomi": "われ、わが-",
+                    "onyomi": "ゴ",
+                    "meaning": "I, My, Our, One's Own",
+                    "correct": 0,
+                    "wrong": 0,
+                    "streak": 0
+                }
+
+            ]
+        }
+    ]
+}
